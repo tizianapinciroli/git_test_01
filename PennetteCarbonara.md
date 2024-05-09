@@ -4,5 +4,5 @@ le famose pennette
 ## ingredienti
 * penne
 * uova
-* pancetta
+* guanciale
 * pepe nero
