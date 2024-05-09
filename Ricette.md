@@ -1,3 +1,5 @@
 # ricette di tiziana modificate
-* spaghetti aglio e olio
 * risotto ai funghi
+* spaghetti aglio olio e peperoncino
+* pennette alla carbonara
+
